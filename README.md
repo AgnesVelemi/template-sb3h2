@@ -1,11 +1,12 @@
-# Spring Boot 3.4 + H2 + JPA Starter Template (Java 21)
-### 💡 Kifejezetten IntelliJ IDEA Community Edition-höz és Állásinterjús Házi Feladatokhoz!
+# Spring Boot 3.4 + H2:mem + JPA Starter Template (Java 21) MVNW
+### 💡 IntelliJ IDEA FREE Community Edition-höz
 
-Ez a projekt egy minimális, sziklaszilárd, működőképes Spring Boot 3.4 sablon. Mintaként szolgál új backend mikroszervizek és állásinterjún kapott házi feladatok gyors, hibamentes elindításához.
+Ez a mintaprojekt egy minimális működőképes Spring Boot 3.4 sablon. 
+Mintaként szolgál új backend mikroszervizek projektmappájába áttöltésekor.
 
 ---
 
-## 🎯 Gyorstalpaló: Állásinterjún kapott üres git repó felhúzása a sablonból
+## 🎯 Cloned empty project directory kapott üres mappa git repóból leklónozva ezen sablonból
 
 Gyakori helyzet: a cég ad egy üres (vagy csak egy `README.md`-t és `.gitignore`-t tartalmazó) git repository-t (pl. `trial-recruiting-backend-work-agnessmiths`), amit leklónozol a gépedre, és neked kell rá felhúzni egy működő Spring Boot projektet.
 
